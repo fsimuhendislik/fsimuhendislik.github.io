@@ -1,0 +1,38 @@
+  
+  .background {
+    background-image: url("../images/network4.jpg");
+    background-repeat: round;
+  }
+  
+  .montserrat {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  p.carousel-text-item {
+    position: center;
+  }
+  
+  .container-fluid a:hover {
+    color: black;
+    text-decoration: none; /* no underline */
+  }
+  
+  .container-fluid a:visited {
+    color: black;
+    text-decoration: none; /* no underline */
+  }
+  
+  .btn:hover {
+      opacity: 0.8;
+  }
+  
+  .vertical-middle {
+      display: inline-block;
+      height: 100%;
+      vertical-align: middle;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
