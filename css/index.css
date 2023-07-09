@@ -1,7 +1,9 @@
   
   .background {
-    background-image: url("../images/network4.jpg");
-    background-repeat: round;
+    background-image: url("../images/cnc.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
   }
   
   .montserrat {
@@ -36,3 +38,6 @@
     max-width: 100%;
   }
   
+  .fsiorange {
+    color: #e7bc39 !important;
+  }
